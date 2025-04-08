@@ -1,1 +1,1 @@
-# Atividade_L-gica_Computacional
+# Atividade_Lógica_Computacional
